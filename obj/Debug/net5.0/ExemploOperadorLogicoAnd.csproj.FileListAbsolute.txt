@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\bin\Debug\net5.0\ExemploOperadorLogicoAnd.exe
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\bin\Debug\net5.0\ExemploOperadorLogicoAnd.deps.json
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\bin\Debug\net5.0\ExemploOperadorLogicoAnd.runtimeconfig.json
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\bin\Debug\net5.0\ExemploOperadorLogicoAnd.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\bin\Debug\net5.0\ExemploOperadorLogicoAnd.dll
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\bin\Debug\net5.0\ref\ExemploOperadorLogicoAnd.dll
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\bin\Debug\net5.0\ExemploOperadorLogicoAnd.pdb
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\obj\Debug\net5.0\ExemploOperadorLogicoAnd.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\obj\Debug\net5.0\ExemploOperadorLogicoAnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\obj\Debug\net5.0\ExemploOperadorLogicoAnd.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\obj\Debug\net5.0\ExemploOperadorLogicoAnd.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\obj\Debug\net5.0\ExemploOperadorLogicoAnd.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\obj\Debug\net5.0\ExemploOperadorLogicoAnd.dll
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\obj\Debug\net5.0\ref\ExemploOperadorLogicoAnd.dll
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\obj\Debug\net5.0\ExemploOperadorLogicoAnd.pdb
+C:\xampp\htdocs\udemy\ExemploOperadorLogicoAnd\obj\Debug\net5.0\ExemploOperadorLogicoAnd.genruntimeconfig.cache
